@@ -70,7 +70,7 @@ menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerNa
 ╭✄┈┈┈⟬ *Fitur* ⟭
 ┆❐ ${prefix}stiker
 ┆❐ ${prefix}mlid
-┆ ❐ ${prefix}ffid
+┆❐ ${prefix}ffid
 ┆❐ ${prefix}setwelcome
 ┆❐ ${prefix}changewelcome
 ┆❐ ${prefix}delsetwelcome
